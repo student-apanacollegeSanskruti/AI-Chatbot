@@ -11,4 +11,4 @@ Runtime Input: Accepts user input in various formats, including text and structu
 Natural Language Processing: Understands and processes user queries to provide accurate and informative responses.
 Contextual Awareness: Maintains context throughout the conversation, leading to more engaging interactions.
 
-link:  https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/25/11/20241025115755-3WUCG1Y7.json
+link: https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/25/11/20241025115755-3WUCG1Y7.json
